@@ -90,6 +90,7 @@ npm install inklayer-react
 
 [Repository](https://github.com/Laomai-codefee/inklayer-react) ·
 [Documentation](https://inklayer.dev/docs/react/) ·
+[Live Demo](https://laomai-codefee.github.io/inklayer-react/) ·
 [npm](https://www.npmjs.com/package/inklayer-react)
 
 ### InkLayer Vue
@@ -110,6 +111,7 @@ npm install inklayer-vue
 
 [Repository](https://github.com/Laomai-codefee/inklayer-vue) ·
 [Documentation](https://inklayer.dev/docs/vue/) ·
+[Live Demo](https://laomai-codefee.github.io/inklayer-vue/) ·
 [npm](https://www.npmjs.com/package/inklayer-vue)
 
 ## Which package should I choose?
